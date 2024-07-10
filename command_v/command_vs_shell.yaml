@@ -6,3 +6,4 @@
 
  -name: command shell
   ansible.buitin.shell: "echo 'Hi, this is from command shell' > /tmp/shell.txt"
+  #
